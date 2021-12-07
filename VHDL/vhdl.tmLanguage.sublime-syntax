@@ -62,8 +62,4 @@ contexts:
         ]*(\
         ?\
         )?
-<<<<<<< HEAD
       scope: variable.other.constant.tool_directive.vhdl
-=======
-      scope: variable.other.constant.tool_directive.vhdl
->>>>>>> fa7d724cde2c70a60ab12f782b4b9514a00d31e7
